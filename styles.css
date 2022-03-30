@@ -1,0 +1,51 @@
+.header {
+    background: white;
+    width: 100%;
+    height: 80%;
+    padding: 10px;
+}
+
+.header h1 {
+    margin:auto;
+    width: 350px
+}
+
+.header-post {
+    padding: 0px 14px 0px;
+}
+.post {
+    width: 400px;
+    background: white;
+    margin: auto;
+
+}
+.icon {
+    width: 10%;
+    float: left;
+    padding-top: 3px;
+}
+.boxone {
+   float: left;
+   width: 30%;
+}
+.boxtwo {
+    float: right;
+    text-align: right;
+    width: 60%;
+    padding-top: 5px;
+}
+
+body {
+    background: gray;
+}
+footer {
+    padding: 10px;
+    padding-top: 3px;
+    margin-top: 10px;
+}
+.boxone h3{
+    margin: 0px;
+}
+.myicon{
+    float:right;
+}
